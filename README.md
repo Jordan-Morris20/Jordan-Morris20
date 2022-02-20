@@ -1,3 +1,3 @@
 -Hi, I’m Jordan Morris
 -I’m interested in all things mathematical and statistical
--I’m currently learning deep learning with Keras
+-I’m currently studying deep learning with Keras
